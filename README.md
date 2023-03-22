@@ -4,8 +4,8 @@ Wellcome to Hello express project
 Just playing with node and express
 
 A webapp with routes:
-* /: a welcome message
-* /users: a users listing
+* / -> a welcome message
+* /users -> a users listing
 
 # requires
 * node: https://nodejs.org/es/download/
@@ -21,5 +21,6 @@ npm install
 ```
 npm start
 ```
-Check http://localhost:3000/
+
+Check http://localhost:3000
 Check http://localhost:3000/users
